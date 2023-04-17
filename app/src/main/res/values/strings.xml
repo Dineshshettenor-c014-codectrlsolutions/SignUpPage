@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SignUp Page</string>
+    <string name="terns">By Selecting this you will be acceptig Terms and Conditions</string>
+    <string name="cnf_p">Enter The Conform Password</string>
+</resources>
